@@ -1,0 +1,11 @@
+{
+  "access_token": "access_token",
+  "app_id": "app_id",
+  "client_id": "client_id",
+
+  "dataset_id": "conversation",
+  "attribute_ids": "conversation.id,conversation.first_user_conversation_part_created_at",
+
+  "initial_start_time": "1717490000",
+  "window_seconds": "3600"
+}
